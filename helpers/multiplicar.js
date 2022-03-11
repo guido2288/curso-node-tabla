@@ -14,7 +14,7 @@ const crearArchivo = async( base = 5 , listar = true , hasta = 10) => {
             
             salida += `${ base } x ${ i } = ${ base * i }\n`; //con salto de linea
             consola += `${ base } x ${ i } = ${ base * i }\n`.america;
-        };
+        };  
         
         if (listar == true){
             
